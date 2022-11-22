@@ -10,4 +10,4 @@ Viagens
 
 link Base de Dados:https://www.kaggle.com/datasets/whenamancodes/students-performance-in-exams link Dicionario De Dados: https://www.kaggle.com/datasets/whenamancodes/students-performance-in-exams
 
-link Repositorio: https://github.com/GustaPe/Data-Science
+link Repositorio: https://github.com/GustaPe/Data-Science-exams
